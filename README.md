@@ -1,4 +1,7 @@
-### Hi there 👋
+### WELCOME TO MY GITHUB 👋
+
+![image](https://user-images.githubusercontent.com/56873602/154059566-39c24220-a7bf-499e-abf2-54ea857c2569.png)
+
 
 <!--
 **SamoK99/SamoK99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
