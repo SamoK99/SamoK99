@@ -1,6 +1,10 @@
 ### WELCOME TO MY GITHUB 👋
 
 ![image](https://user-images.githubusercontent.com/56873602/154059566-39c24220-a7bf-499e-abf2-54ea857c2569.png)
+![image](https://user-images.githubusercontent.com/56873602/154060001-5ae13922-d94b-48da-9239-4710a18c8dfa.png)
+![image](https://user-images.githubusercontent.com/56873602/154060112-14b6dbf6-228e-4891-87a1-226cc173e4c7.png)
+
+
 
 
 <!--
