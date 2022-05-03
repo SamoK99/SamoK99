@@ -30,9 +30,8 @@ Simple API for Movies - NodeJS/ExpressJS/Mongoose - https://movie-budget.herokua
 ⚡Currently improving and working on more 
 
 ### Github Stats:
-<img align="center" alt="Daniel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SamoK99&show_icons=true&hide_border=false&title_color=#9dbde7&icon_color=#dddddd&bg_color=bbbbbb&text_color=#9dbde7&border_color=0c1a25" />
+<img align="center" alt="Sam Stats" src="https://github-readme-stats.vercel.app/api?username=SamoK99&show_icons=true&hide_border=false&title_color=#9dbde7&icon_color=#dddddd&bg_color=bbbbbb&text_color=#9dbde7&border_color=0c1a25" />
 
 ### How to reach me:
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/samuel-kuzma/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/samuel-kuzma/#gh-dark-mode-only)
+https://www.linkedin.com/in/samuel-kuzma/
 
