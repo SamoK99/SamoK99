@@ -24,7 +24,6 @@
 <br />
 <br />
 
----
 
 ### Some Projects of mine:
 Tabtimize app recreation - Vue - https://tabtimize.netlify.app/ <br/>
