@@ -26,9 +26,9 @@
 
 
 ### Some Projects of mine:
-Tabtimize app recreation - Vue - https://tabtimize.netlify.app/ <br/>
-Gamestore prototype - Vue/Firebase - https://game-webshop-2020.web.app/<br/>
-Simple API for Movies - NodeJS/ExpressJS/Mongoose - https://movie-budget.herokuapp.com/api/docs/ <br/>
+- Tabtimize app recreation - Vue - https://tabtimize.netlify.app/ <br/>
+- Gamestore prototype(mobile first) - Vue/Firebase - https://game-webshop-2020.web.app/<br/>
+- Simple API for Movies - NodeJS/ExpressJS/Mongoose - https://movie-budget.herokuapp.com/api/docs/ <br/>
 ⚡Currently improving and working on more 
 
 ### Github Stats:
