@@ -1,7 +1,7 @@
 ### Welcome to my Github, fellow coders & non-coders  👋
 
 ## About me:
-- WebDev bachelor student
+- Master of Science in Computer Science
 - Powerlifting enthusiast
 - Coder by day, gamer by night
 - Potato salad RULES
